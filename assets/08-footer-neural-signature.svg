@@ -1,0 +1,11 @@
+<svg width="1200" height="230" viewBox="0 0 1200 230" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="AI footer neural signature">
+  <defs>
+    <linearGradient id="g" x1="100" x2="1100" y1="0" y2="230" gradientUnits="userSpaceOnUse"><stop stop-color="#00F5FF"/><stop offset=".5" stop-color="#A855F7"/><stop offset="1" stop-color="#FF7A18"/></linearGradient>
+    <style>.mono{font-family:'JetBrains Mono','Consolas',monospace}.sans{font-family:'Inter','Segoe UI',Arial,sans-serif}.dash{stroke-dasharray:8 14;animation:d 10s linear infinite}@keyframes d{to{stroke-dashoffset:-250}}.pulse{animation:p 2.3s ease-in-out infinite}@keyframes p{50%{opacity:.35}}</style>
+  </defs>
+  <rect width="1200" height="230" rx="32" fill="#030712"/>
+  <path class="dash" d="M72 112 C220 32, 374 198, 530 112 S820 24, 1128 112" stroke="url(#g)" stroke-width="2.2" fill="none"/>
+  <text x="600" y="96" text-anchor="middle" class="mono" font-size="15" fill="#67E8F9" letter-spacing="4">AI NATIVE · FUTURE AWARE · EXECUTION OBSESSED</text>
+  <text x="600" y="145" text-anchor="middle" class="sans" font-size="34" font-weight="800" fill="white">built by Luca Miniello</text>
+  <g fill="#00F5FF"><circle class="pulse" cx="108" cy="112" r="6"/><circle class="pulse" cx="318" cy="91" r="5" style="animation-delay:.4s"/><circle class="pulse" cx="585" cy="125" r="5" style="animation-delay:.8s"/><circle class="pulse" cx="881" cy="76" r="6" style="animation-delay:1.2s"/><circle class="pulse" cx="1088" cy="112" r="6" style="animation-delay:1.6s"/></g>
+</svg>

@@ -1,0 +1,23 @@
+{
+  "project": "Luca Miniello AI Profile OS V4",
+  "status": "rebuilt_from_zero",
+  "root_files": [
+    "README.MD",
+    "INSTALLAZIONE.md",
+    "GUIDA_PUBBLICAZIONE.md",
+    "MANIFEST.json"
+  ],
+  "assets": [
+    "00-hero-ai-command-center.svg",
+    "01-neural-divider.svg",
+    "02-ai-operating-system.svg",
+    "03-trend-radar.svg",
+    "04-protocol-engine.svg",
+    "05-ventures-grid.svg",
+    "06-stack-matrix.svg",
+    "07-contribution-engine.svg",
+    "08-footer-neural-signature.svg"
+  ],
+  "workflow": ".github/workflows/snake.yml",
+  "upload_instructions": "Extract the zip and upload README.MD, assets/, and .github/ to lucaminiello/lucaminiello. Do not upload the zip itself."
+}

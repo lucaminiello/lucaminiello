@@ -1,0 +1,16 @@
+<svg width="1200" height="90" viewBox="0 0 1200 90" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Neural animated divider">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1200" y1="0" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00F5FF"/>
+      <stop offset=".5" stop-color="#A855F7"/>
+      <stop offset="1" stop-color="#FF7A18"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>.line{stroke-dasharray:10 22;animation:d 12s linear infinite}@keyframes d{to{stroke-dashoffset:-380}}.n{animation:p 2.4s ease-in-out infinite}@keyframes p{50%{opacity:.35;r:4}}</style>
+  </defs>
+  <rect width="1200" height="90" fill="#030712" opacity="0"/>
+  <path class="line" d="M20 45 C135 5, 226 82, 342 45 S533 8, 640 45 S847 82, 956 45 S1100 10, 1180 45" stroke="url(#g)" stroke-width="2.2" fill="none" filter="url(#glow)"/>
+  <g fill="#00F5FF" filter="url(#glow)">
+    <circle class="n" cx="80" cy="28" r="5"/><circle class="n" cx="208" cy="66" r="5" style="animation-delay:.3s"/><circle class="n" cx="342" cy="45" r="5" style="animation-delay:.6s"/><circle class="n" cx="530" cy="20" r="5" style="animation-delay:.9s"/><circle class="n" cx="740" cy="61" r="5" style="animation-delay:1.2s"/><circle class="n" cx="957" cy="45" r="5" style="animation-delay:1.5s"/><circle class="n" cx="1112" cy="23" r="5" style="animation-delay:1.8s"/>
+  </g>
+</svg>

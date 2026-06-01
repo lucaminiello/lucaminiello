@@ -1,0 +1,16 @@
+.github/workflows/snake.yml
+FILE_LIST.txt
+GUIDA_PUBBLICAZIONE.md
+INSTALLAZIONE.md
+MANIFEST.json
+PREVIEW_LOCAL.html
+README.MD
+assets/00-hero-ai-command-center.svg
+assets/01-neural-divider.svg
+assets/02-ai-operating-system.svg
+assets/03-trend-radar.svg
+assets/04-protocol-engine.svg
+assets/05-ventures-grid.svg
+assets/06-stack-matrix.svg
+assets/07-contribution-engine.svg
+assets/08-footer-neural-signature.svg
